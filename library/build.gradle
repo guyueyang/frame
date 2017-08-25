@@ -28,8 +28,5 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
     compile 'com.android.support:appcompat-v7:26.+'
-    compile 'com.andcup.android.frame:andcup-frame:1.0.0-SNAPSHOT'
-    compile 'com.andcup.android.database.activeandroid:andcup-database-activeandroid:0.1.20-SNAPSHOT'
-    compile 'com.andcup.app.compat:andcup-app-compat:1.0.0-SNAPSHOT'
     testCompile 'junit:junit:4.12'
 }
