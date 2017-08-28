@@ -30,9 +30,9 @@ dependencies {
     compile 'com.android.support:appcompat-v7:26.+'
     testCompile 'junit:junit:4.12'
     compile files('libs/andcup-app-compat.jar')
-    compile files('libs/andcup-database-activeandroid.jar')
-    compile files('libs/andcup-frame.jar')
+//    compile files('libs/andcup-database-activeandroid.jar')
+//    compile files('libs/andcup-frame.jar')
     compile files('libs/andcup-lib-download.jar')
-    compile files('libs/andcup-widget-autolayout.jar')
-    compile files('libs/andcup-widget-swipeback.jar')
+//    compile files('libs/andcup-widget-autolayout.jar')
+//    compile files('libs/andcup-widget-swipeback.jar')
 }
